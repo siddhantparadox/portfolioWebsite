@@ -5,9 +5,9 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "DREAM Lab, University of Maryland - Baltimore County",
+    title: "Laboratory for Physical Sciences",
     job: "Graduate Research Assistant",
-    desc: "At the DREAM Lab, I spearheaded the development of a machine learning-based malware detection system, leveraging Python and the Scipy library to process over a million samples for enhanced feature representation. This project not only improved detection accuracy by 30% over traditional methods but also honed my skills in data analysis, algorithm optimization, and machine learning, making me adept at tackling complex cybersecurity challenges. My ability to drive significant advancements in malware detection underscores my potential as a successful candidate for software engineering roles, particularly in security-focused applications.",
+    desc: "At the Laboratory for Physical Sciences, I spearheaded the development of a machine learning-based malware detection system, leveraging Python and the Scipy library to process over a million samples for enhanced feature representation. This project not only improved detection accuracy by 30% over traditional methods but also honed my skills in data analysis, algorithm optimization, and machine learning, making me adept at tackling complex cybersecurity challenges. My ability to drive significant advancements in malware detection underscores my potential as a successful candidate for software engineering roles, particularly in security-focused applications.",
   },
   {
     id: 2,
