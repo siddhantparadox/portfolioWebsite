@@ -40,7 +40,7 @@ const Links = () => {
         <motion.a
           href={
             item === "Résumé"
-              ? "https://drive.google.com/file/d/16JoGzacFWGtDy8-XBjnaMAeBtMfJLzmz/view?usp=sharing"
+              ? "https://drive.google.com/file/d/1wAQv4cXlk5yCtK6JTkLGLrzprZfwpsMX/view?usp=sharing"
               : `#${item}`
           }
           key={item}

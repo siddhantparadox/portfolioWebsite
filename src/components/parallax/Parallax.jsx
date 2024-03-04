@@ -31,7 +31,7 @@ const Parallax = ({ type }) => {
           <h1 style={{ y: yText }}>
             <span>
               <a
-                href="https://drive.google.com/file/d/16JoGzacFWGtDy8-XBjnaMAeBtMfJLzmz/view?usp=sharing"
+                href="https://drive.google.com/file/d/1wAQv4cXlk5yCtK6JTkLGLrzprZfwpsMX/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ position: "relative", zIndex: 1000 }}
